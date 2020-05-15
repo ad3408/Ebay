@@ -123,11 +123,11 @@ list-style: none;
 /* Gellery */
 
 .gallery-area {
-		padding-top: 65px;
+		padding-top: 30px;
+	    padding-bottom: 35px;
 	}
 
 	
-
 	.slider {
 	    position: relative;
 	    padding-top: 500px;
