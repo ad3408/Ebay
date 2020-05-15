@@ -128,9 +128,10 @@ list-style: none;
 	}
 
 	
+
 	.slider {
 	    position: relative;
-	    padding-top: 500px;
+	    padding-top: 625px;
 	    text-align: center;
 	}
 	.slider .large {
@@ -142,7 +143,7 @@ list-style: none;
 	}
 	.slider .large img {
 	    width: auto;
-	    height: 480px;
+	    height: 600px;
 	    max-width: 100%;
 	}
 	.slider input[name='slide_switch'] {
@@ -182,6 +183,10 @@ list-style: none;
 		.slider {
 			padding-top: 270px;
 		}
+		.gallery-area {
+		padding-top: 30px;
+	    padding-bottom: 30px;
+	    }
 	}
 
 
