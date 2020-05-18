@@ -178,10 +178,10 @@ list-style: none;
 
 	@media (max-width: 767px) {
 		.slider .large img {
-			height: 250px;
+			height: 300px;
 		}
 		.slider {
-			padding-top: 270px;
+			padding-top: 320px;
 		}
 		.gallery-area {
 		padding-top: 30px;
